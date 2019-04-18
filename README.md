@@ -1,4 +1,4 @@
-# Data-Science-Courses-Across-USA
+# Analysis and Visualization of Data Science Courses across United States
 Tableau visualizations examining patters in Data science courses and their respective ranking
 
 - The visualizations have been created in Tableau.
